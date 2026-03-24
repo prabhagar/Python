@@ -1,0 +1,7 @@
+- This workspace is for a complete Python beginner.
+- Teach one class per day only.
+- Keep lessons small, practical, and non-intimidating.
+- Prefer a single runnable lesson file at a time.
+- Avoid adding future lessons until the user asks for the next class.
+- Use simple words and short examples.
+- Focus on typing code, changing values, and observing output.
