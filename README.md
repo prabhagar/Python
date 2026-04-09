@@ -2,38 +2,37 @@
 
 This workspace is for one class at a time.
 
-Right now it contains only Day 1 so you can start slowly and learn without distraction.
+## Lesson Files
+
+1. `class_01_print_and_variables.py`
+2. `class_02_user_input_and_int.py`
+3. `class_03_if_else_decisions.py`
+4. `class_04_elif_and_multiple_checks.py`
 
 ## Today's Goal
 
-Learn these basics:
-- `print()`
-- strings
-- numbers
-- variables
-- running a Python file
+For Day 4, learn these basics:
+- `elif` for a middle condition
+- multiple checks with `and`
+- small decision programs
 
 ## How to Use This Workspace
 
-1. Open `day-01_baby_steps.py`.
+1. Open today's class file.
 2. Read the comments at the top.
 3. Run the file.
 4. Change the values.
 5. Complete the small exercises at the bottom.
 
-## Run the Lesson
+## Run a Lesson
 
 On macOS, run:
 
 ```bash
-python3 day-01_baby_steps.py
+python3 class_04_elif_and_multiple_checks.py
 ```
 
-Or in VS Code, open the file and run the task named `Run current Python file`.
-
-## What Comes Next
-
-We will add Day 2 only after you finish Day 1.
+Or in VS Code, open any class file and run the task named `Run current Python file`.
 
 ## Beginner Rules
 
