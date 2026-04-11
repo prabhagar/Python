@@ -8,13 +8,14 @@ This workspace is for one class at a time.
 2. `class_02_user_input_and_int.py`
 3. `class_03_if_else_decisions.py`
 4. `class_04_elif_and_multiple_checks.py`
+5. `class_05_while_loops.py`
 
 ## Today's Goal
 
-For Day 4, learn these basics:
-- `elif` for a middle condition
-- multiple checks with `and`
-- small decision programs
+For Day 5, learn these basics:
+- `while` to repeat code
+- a counter that changes each time
+- stopping a loop when a condition becomes false
 
 ## How to Use This Workspace
 
@@ -29,7 +30,7 @@ For Day 4, learn these basics:
 On macOS, run:
 
 ```bash
-python3 class_04_elif_and_multiple_checks.py
+python3 class_05_while_loops.py
 ```
 
 Or in VS Code, open any class file and run the task named `Run current Python file`.
