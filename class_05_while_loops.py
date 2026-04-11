@@ -59,4 +59,31 @@ while bottles >= 1:
     print("Bottles left:", bottles)
     bottles = bottles - 1
 
+print("\n=== Extra Exercise: Save Money ===")
+
+money = 1
+
+while money <= 5:
+    print("You saved", money, "dollar")
+    money = money + 1
+
+print("You saved 5 dollars in total.")
+
 print("Class 5 complete. Change the numbers and run again.")
+
+# Extra Exercise:
+# Create a variable called coins and set it to 1.
+# Use a while loop to print:
+# I have 1 coin
+# I have 2 coins
+# I have 3 coins
+# I have 4 coins
+# I have 5 coins
+# After the loop, print:
+# I counted 5 coins.
+coins = 1
+while coins <= 5:
+    print("I have", coins, "coin" if coins == 1 else "coins")
+    coins = coins + 1
+
+print("I counted 5 coins.")
