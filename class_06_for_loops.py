@@ -49,3 +49,7 @@ vegetable = "carrot"
 
 for letter in vegetable:
     print(letter)
+
+
+for number1 in range(1, 11):
+    print("Number:", number1)

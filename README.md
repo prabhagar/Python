@@ -10,6 +10,7 @@ This workspace is for one class at a time.
 4. `class_04_elif_and_multiple_checks.py`
 5. `class_05_while_loops.py`
 6. `class_06_for_loops.py`
+7. `class_07_lists.py`
 
 ## Today's Goal
 
