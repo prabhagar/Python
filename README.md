@@ -12,13 +12,14 @@ This workspace is for one class at a time.
 6. `class_06_for_loops.py`
 7. `class_07_lists.py`
 8. `class_08_list_changes.py`
+9. `class_09_functions.py`
 
 ## Today's Goal
 
-For Day 8, learn these basics:
-- `append()` to add a new item to a list
-- `len()` to count items in a list
-- printing a list before and after a change
+For Day 9, learn these basics:
+- `def` to create a function
+- calling a function to run it
+- giving a function one value to use
 
 ## How to Use This Workspace
 
@@ -33,7 +34,7 @@ For Day 8, learn these basics:
 On macOS, run:
 
 ```bash
-python3 class_08_list_changes.py
+python3 class_09_functions.py
 ```
 
 Or in VS Code, open any class file and run the task named `Run current Python file`.
