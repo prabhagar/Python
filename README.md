@@ -11,13 +11,14 @@ This workspace is for one class at a time.
 5. `class_05_while_loops.py`
 6. `class_06_for_loops.py`
 7. `class_07_lists.py`
+8. `class_08_list_changes.py`
 
 ## Today's Goal
 
-For Day 6, learn these basics:
-- `for` to repeat code
-- `range()` to choose how many times to repeat
-- reading each value one by one in a loop
+For Day 8, learn these basics:
+- `append()` to add a new item to a list
+- `len()` to count items in a list
+- printing a list before and after a change
 
 ## How to Use This Workspace
 
@@ -32,7 +33,7 @@ For Day 6, learn these basics:
 On macOS, run:
 
 ```bash
-python3 class_06_for_loops.py
+python3 class_08_list_changes.py
 ```
 
 Or in VS Code, open any class file and run the task named `Run current Python file`.
