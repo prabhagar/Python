@@ -13,13 +13,14 @@ This workspace is for one class at a time.
 7. `class_07_lists.py`
 8. `class_08_list_changes.py`
 9. `class_09_functions.py`
+10. `class_10_function_return_values.py`
 
 ## Today's Goal
 
-For Day 9, learn these basics:
-- `def` to create a function
-- calling a function to run it
-- giving a function one value to use
+For Day 10, learn these basics:
+- `return` to send a value back from a function
+- storing the returned value in a variable
+- using the returned value in math
 
 ## How to Use This Workspace
 
@@ -34,7 +35,7 @@ For Day 9, learn these basics:
 On macOS, run:
 
 ```bash
-python3 class_09_functions.py
+python3 class_10_function_return_values.py
 ```
 
 Or in VS Code, open any class file and run the task named `Run current Python file`.
