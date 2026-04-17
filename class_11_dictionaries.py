@@ -73,3 +73,10 @@ for key, value in person.items():
 # 1. Change "name" to your own name.
 # 2. Add a new key called "hobby" with any value you like.
 # 3. Run the file and see the output change.
+
+person["name"] = "Rajinikanth"
+person["hobby"] = "Acting"
+
+print("\n--- After your changes ---")
+for key, value in person.items():
+    print(key, "→", value)
