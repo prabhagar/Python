@@ -1,0 +1,4 @@
+Hello from Python!
+This is my first file.
+Writing files is easy.
+This line was added later.
